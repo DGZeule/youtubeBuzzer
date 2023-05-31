@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Youtube Buzzer
 // @namespace    http://1fckeller.de/
-// @version      0.1
+// @version      0.2
 // @description  add buzzer including autopause to youtube video sites
 // @author       DGZeule
+// @downloadURL  https://github.com/DGZeule/youtubeBuzzer/raw/main/youtubeBuzzer.user.js
+// @updateURL    https://github.com/DGZeule/youtubeBuzzer/raw/main/youtubeBuzzer.user.js
 // @match        https://www.youtube.com/watch?v=*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @require      https://code.jquery.com/jquery-3.7.0.min.js

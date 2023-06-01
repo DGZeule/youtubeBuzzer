@@ -83,8 +83,7 @@
   Animate timeout? <input type="checkbox" name="animate"><br>
 </div>
 <div id="buzzer">
-</div>
-<audio src="https://1fckeller.de/contest/buzzer.mp3" id="sound"></audio>`);
+</div>`);
 
     if(window.localStorage){
         try{
@@ -172,7 +171,6 @@
                     }
                     $("#buzzer").text(team[0]).show();
                     $("ytd-app").css({"--app-drawer-content-container-background-color":c,"background-color":c });
-                    $("#sound")[0].play();
                     $(".html5-main-video")[0].pause();
                     buzzerSettings.ytbResetTimeout=setTimeout(reset, buzzerSettings.timer);
                 }

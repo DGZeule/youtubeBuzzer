@@ -15,10 +15,12 @@ When the extension is installed you can open the link to the script to install i
 The script is started on any youtube video URL.
 When the Buzzer or controller button is pressed the color and name of the person who pressed it first is displayed and the video gets paused.
 A settings button is displayed next to the YT logo. You can set up the usernames, the time that players have for answering and whether an animation should be displayed when the timer is running or not.
+If you can't see any colored input fields in the settings dialog, the script couldn't find any compatible controllers.
 
 ## ToDo
 
 * add/test more types of gamepads
 * integrate more buttons on the controllers in order to play multiple choice quizzes
+* integrate keyboard based buzzer, for using the script even if you don't have any compatible controllers available
 * The script could be modified to run on twitch or any other video platform.
 

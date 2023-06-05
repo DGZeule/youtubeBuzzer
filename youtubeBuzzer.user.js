@@ -4,6 +4,7 @@
 // @version      0.3
 // @description  add buzzer including autopause to youtube video sites
 // @author       DGZeule
+// @license      GNU GPLv3
 // @downloadURL  https://github.com/DGZeule/youtubeBuzzer/raw/main/youtubeBuzzer.user.js
 // @updateURL    https://github.com/DGZeule/youtubeBuzzer/raw/main/youtubeBuzzer.user.js
 // @match        https://www.youtube.com/watch?v=*
